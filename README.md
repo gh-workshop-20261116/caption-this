@@ -3,7 +3,7 @@
 - Class Date: Nov 16 - 17, 2026
 - Facilitator: @zevanreg
 
-## Class Resources
+## Class Resources - edited by Raykhan56
 
 - [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/#/)
 - [Introduction to GitHub Flow](https://guides.github.com/introduction/flow/)
